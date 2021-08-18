@@ -1,10 +1,8 @@
-# About me
-
+## Hi :wave:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pietrotavares/)](https://linkedin.com/in/pietrotavares/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pietro.it@protonmail.com)](mailto:pietro.it@protonmail.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/pietrotavares)](https://ko-fi.com/pietrotavares)
 
-## Hi :wave:
 I'm a 24-year-old software engineer from São Paulo, Brazil.<br/>
 For the past 3 years, I have been professionally developing software for the web.<br/>
 
