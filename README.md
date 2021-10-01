@@ -20,8 +20,8 @@ Therefore, if you could use some help on your open-source project feel free to D
 
 #### Languages:
 
-![Golang](https://img.shields.io/badge/-Golang-3776AB?style=flat-square&logo=go&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
+![Java](https://img.shields.io/badge/-Java-7F1917?style=flat-square&logo=java&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFF00)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
@@ -40,6 +40,3 @@ Therefore, if you could use some help on your open-source project feel free to D
 
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-DD4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-
-#### Text Editors:
-![Neovim](http://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=ffffff)
