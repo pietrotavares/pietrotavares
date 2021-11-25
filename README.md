@@ -8,8 +8,8 @@ For the past 3 years, I have been professionally developing software for the web
 
 My main fields of interest are:
 * Back-end Development
-* SRE (Site Reliability Engineering)
 * Distributed Systems
+* SRE (Site Reliability Engineering)
 
 I'm currently looking for open-source projects to contribute to and people to collaborate with.<br/>
 Therefore, if you could use some help on your open-source project feel free to DM me.<br/>
