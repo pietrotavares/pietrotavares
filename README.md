@@ -12,7 +12,7 @@ My main fields of interest are:
 * SRE (Site Reliability Engineering)
 
 I'm currently looking for open-source projects to contribute to and people to collaborate with.<br/>
-Therefore, if you could use some help on your open-source project feel free to DM me.<br/>
+Therefore, if you could use some help in your open-source project feel free to DM me.<br/>
 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
