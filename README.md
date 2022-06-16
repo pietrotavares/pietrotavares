@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pietro.it@protonmail.com)](mailto:pietro.it@protonmail.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/pietrotavares)](https://ko-fi.com/pietrotavares)
 
-I'm a 24-year-old software engineer from São Paulo, Brazil.<br/>
+I'm a 25-year-old software engineer from São Paulo, Brazil.<br/>
 For the past 4 years, I have been professionally developing software for the web.<br/>
 
 My main fields of interest are:
