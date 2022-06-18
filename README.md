@@ -18,7 +18,7 @@ Therefore, if you could use some help in your open-source project feel free to D
 
 ## Technologies
 
-#### Languages:
+#### Languages
 
 ![Java](https://img.shields.io/badge/-Java-7F1917?style=flat-square&logo=java&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-Javascript-F6F6F6?style=flat-square&logo=javascript)
