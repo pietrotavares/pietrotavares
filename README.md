@@ -25,8 +25,8 @@ Therefore, if you could use some help in your open-source project feel free to D
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
 #### Databases
-![Spanner](https://img.shields.io/badge/-Google%20Cloud%20Spanner-FEFEFE?style=flat-square&logo=google-cloud)
-![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat-square&logo=mongodb)
+![Spanner](https://img.shields.io/badge/-Spanner-FEFEFE?style=flat-square&logo=google-cloud)
+![MongoDB](https://img.shields.io/badge/-MongoDB-228B22?style=flat-square&logo=mongodb&logoColor=FFFFFF)
 ![RocksDB](https://img.shields.io/badge/-RocksDB-010B3D?style=flat-square&logo=rocksdb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E6E6E6?style=flat-square&logo=postgresql)
 
