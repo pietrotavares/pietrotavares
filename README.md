@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pietrotavares/)](https://linkedin.com/in/pietrotavares/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pietro.it@protonmail.com)](mailto:pietro.it@protonmail.com)
 
-I'm a 25-year-old software engineer from São Paulo, Brazil.<br/>
+I'm a 26-year-old software engineer from São Paulo, Brazil.<br/>
 For the past 4 years, I have been professionally developing software for the web.<br/>
 
 My main fields of interest are:
