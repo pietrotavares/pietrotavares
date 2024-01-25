@@ -9,27 +9,27 @@ My main fields of interest are:
 ## Technologies
 
 #### Languages
-Java
-Scala
-Groovy
-Bash
+Java</br>
+Scala</br>
+Groovy</br>
+Bash</br>
 
 #### Data
-Google Cloud Spanner
-ksqlDB
-Redis
-PostgreSQL
-MongoDB
-RocksDB
+Google Cloud Spanner</br>
+ksqlDB</br>
+Redis</br>
+PostgreSQL</br>
+MongoDB</br>
+RocksDB</br>
 
 #### Cloud
-GCP
-AWS
-AWS MSK
-Apache Flink
-Docker
-Kubernetes
-Istio
-Jenkins
-ArgoCD
+GCP</br>
+AWS</br>
+AWS MSK</br>
+Apache Flink</br>
+Docker</br>
+Kubernetes</br>
+Istio</br>
+Jenkins</br>
+ArgoCD</br>
 Terraform
