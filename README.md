@@ -3,8 +3,9 @@
 I'm a 26-year-old SE based in São Paulo, Brazil.<br/>
 
 My main fields of interest are:
-* Data engineering
-* Site reliability engineering
+* Cloud Software Development
+* Site Reliability Engineering
+* System Security
 
 ## Technologies
 
