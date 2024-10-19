@@ -1,6 +1,6 @@
 ## Hi :wave:
 
-I'm a 26-year-old Software Engineer from Sao Paulo, Brazil.<br/>
+I'm a Software Engineer from Sao Paulo, Brazil.<br/>
 My main fields of interest are:
 * Cloud Software Development
 * Site Reliability Engineering
