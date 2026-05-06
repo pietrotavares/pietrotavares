@@ -14,4 +14,5 @@ I build K8s operators and Java applications for data-intensive workloads.
 
 Quarkus · Go/Kubebuilder · Kubernetes · Terraform · AWS · GCP
 
+<br/>
 Based in Brazil, remote since 2019.
