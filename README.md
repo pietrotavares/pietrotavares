@@ -2,7 +2,7 @@
 
 Systems engineer focused on cloud-native microservices.
 
-I build K8s operators and Java applications for data-intensive workloads.
+I build Kubernetes operators and Java applications for data-intensive workloads.
 
 ## Expertise
 
@@ -12,7 +12,7 @@ I build K8s operators and Java applications for data-intensive workloads.
 
 ## Tech stack
 
-Quarkus · Go/Kubebuilder · Kubernetes · Terraform · AWS · GCP
+Quarkus · Go/Kubebuilder · K8s · Terraform · AWS · GCP
 
 <br/>
 Based in Brazil, remote since 2019.
