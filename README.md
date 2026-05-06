@@ -1,16 +1,17 @@
-## Hi there 👋
+# Pietro Tavares
 
-<!--
-**pietrotavares/pietrotavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems engineer focused on cloud-native microservices.
 
-Here are some ideas to get you started:
+I build K8s operators and Java applications for data-intensive workloads.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expertise
+
+- Workload orchestration: K8s platform and controller ecosystems
+- Microservices architecture: Quarkus applications
+- Fault tolerance: Workflow-as-Code
+
+## Tech stack
+
+Quarkus · Go/Kubebuilder · Kubernetes · Terraform · AWS · GCP
+
+Based in Brazil, remote since 2019.
