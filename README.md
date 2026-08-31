@@ -1,6 +1,6 @@
 # Pietro Tavares
 
-Software engineer focused on cloud-native solutions and large-scale backends.
+Backend software engineer focused on cloud-native solutions and large-scale enterprise systems.
 
 I build Quarkus applications and K8s controllers for data-intensive workloads across GCP and AWS.
 
