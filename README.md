@@ -9,8 +9,8 @@ Most of my day-to-day work is in private GitHub Enterprise organisations. Public
 ## Focus areas
 
 - Cloud-native architecture
-- Kubernetes platform and controller ecosystems
 - Quarkus application development
+- Kubernetes platform and controller ecosystems
 
 ## Tech stack
 
