@@ -1,18 +1,20 @@
 # Pietro Tavares
 
-Systems engineer focused on cloud-native microservices.
+Software engineer focused on cloud-native solutions and large-scale backends.
 
-I build Kubernetes operators and Java applications for data-intensive workloads.
+I build Quarkus applications and K8s controllers for data-intensive workloads across GCP and AWS.
 
-## Expertise
+Most of my day-to-day work is in private GitHub Enterprise organisations. Public repos here are mainly side projects, experiments and personal config management.
 
-- Workload orchestration: K8s platform and controller ecosystems
-- Microservices architecture: Quarkus applications
-- Fault tolerance: Workflow-as-Code
+## Focus areas
+
+- Cloud-native architecture
+- Kubernetes platform and controller ecosystems
+- Quarkus application development
 
 ## Tech stack
 
-Quarkus · Go/Kubebuilder · K8s · Terraform · AWS · GCP
+Java · Quarkus · Go · Kubernetes · Terraform · AWS · GCP
 
 <br/>
 Based in Brazil, remote since 2019.
