@@ -14,7 +14,7 @@ Most of my day-to-day work is in private GitHub Enterprise organisations. Public
 
 ## Technologies
 
-Java · Quarkus · Go · Kubernetes · Terraform · AWS · GCP
+Java · Go · Kubernetes · Linux · Terraform · AWS · GCP
 
 <br/>
 Based in Brazil, remote since 2019.
